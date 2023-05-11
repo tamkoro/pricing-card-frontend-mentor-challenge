@@ -19,10 +19,10 @@ h2, h4, p {
 }
  
 #card {
-  position: relative;
+  /*position: relative;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);*/
   box-shadow: 2px 3px 7px 0px rgba(0,0,0,0.35);
   border-radius: 5px;
   overflow: hidden;
@@ -133,10 +133,10 @@ li {
  
 @media (min-width: 576px) {
   #card {
-    position: relative;
+    /*position: relative;
     left: 50%;
     top: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);*/
     width: 550px;
     height: 400px;
   }
