@@ -6,9 +6,9 @@ html {
   background-color: #e5eff5;
 }
 
-/*body {
+body {
   padding: 20px;
-}*/
+}
 
 h2, h4, p {
   margin: 0;
@@ -19,10 +19,6 @@ h2, h4, p {
 }
  
 #card {
-  position: relative;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
   box-shadow: 2px 3px 7px 0px rgba(0,0,0,0.35);
   border-radius: 5px;
   overflow: hidden;
